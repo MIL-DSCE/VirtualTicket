@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "407133447416",
+    "firebase_url": "https://virtualticket-9784b.firebaseio.com",
+    "project_id": "virtualticket-9784b",
+    "storage_bucket": "virtualticket-9784b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407133447416:android:cc61df922c1bff6a",
+        "android_client_info": {
+          "package_name": "com.example.supriya.virtualticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407133447416-3bscveu4g4lggt5hd66f9bffmoh5on6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5pn3NkuEY3A9jowCkWil-anz_Ikm8JA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
